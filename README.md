@@ -1,4 +1,4 @@
-# Liquity: Decentralized Borrowing Protocol
+# ROKS: A Fork of Liquity in Solana (Neon-EVM)
 
 This is a fork of liquity/dev with rebranding of the stablecoin to ROKS and the reward tokens to VTT.
 ROKS is not soft-pegged to USD; rather, it is pegged to CPI-adjusted-USD to prevent inflation with USD
