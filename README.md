@@ -1,8 +1,5 @@
 # Liquity: Decentralized Borrowing Protocol
 
-![Tests](https://github.com/liquity/dev/workflows/CI/badge.svg) [![Frontend status](https://img.shields.io/uptimerobot/status/m784948796-056b56fd51c67d682c11bb24?label=Testnet&logo=nginx&logoColor=white)](https://devui.liquity.org)
-
-
 This is a fork of liquity/dev with rebranding of the stablecoin to ROKS and the reward tokens to VTT.
 ROKS is not soft-pegged to USD; rather, it is pegged to CPI-adjusted-USD to prevent inflation with USD
 (in case USD inflation accelerates).
